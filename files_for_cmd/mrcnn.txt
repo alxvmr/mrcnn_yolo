@@ -1,0 +1,2 @@
+python3 custom.py train --dataset=data --weights=coco --logs=logs
+python custom.py train --dataset=data --weights=logs\custom2\mask_rcnn_experiment_0040.h5 --logs=logs
